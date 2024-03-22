@@ -1,0 +1,97 @@
+
+              <div class="footer-widget">
+                  <div class="container">
+                     <aside id="text-2" class="widget widget_text">
+                        <div class="col-md-4">
+                           <h2 class="widget-title">About Us</h2>
+                           <div class="textwidget"> He is a foremost devotee of Satguru Shree Raghavendra Swamy ever since receiving a picture of the Great Saint at the age of 12. He just loved His Guru heart and soulfully. 
+                           </div>
+                        </div><!-- end col md 3 -->
+                     </aside>
+                       <aside id="meta-3" class="widget widget_meta">
+                        <div class="col-md-4">
+                           <h2 class="widget-title">Quick Links</h2>
+                           <ul>
+                              <li><a href="index.html" class="quick">Home</a></li>
+                               
+                              <li><a href="events.php" class="quick">Events</a></li>
+                              <li><a href="gallery.html" class="quick">Gallery</a></li>
+							  <li><a href="contact.html" class="quick">Contact Us</a></li>
+							  <li><a href="donate.php" class="quick">Donate Now</a></li>
+                           </ul>
+                        </div><!-- end col md 3 -->
+                     </aside>
+                    
+
+                    <!-- <aside id="ccr_popular_posts-5" class="widget widget_ccr_popular_posts">
+                        <div class="col-md-3">
+                           <h2 class="widget-title">Recent Events</h2>
+                           <ul class="popular-post">
+                              <li>
+                                 <img width="150" height="150" src="images/event1.jpg" class="attachment-thumbnail wp-post-image" alt="02" /> <a href="events.php" title="Collaboratively coordinate.">Youth Project</a>
+                                 <br>
+                                 <i class="fa fa-calendar-o"></i>
+                                 <time class="post-meta-element" datetime="2015-09-10">10 September, 2015</time>
+                              </li>
+                              <li>
+                                 <img width="150" height="150" src="images/event2.jpg" class="attachment-thumbnail wp-post-image" alt="03" /> <a href="events.php" title="Quickly develop exceptional">free Education</a>
+                                 <br>
+                                 <i class="fa fa-calendar-o"></i>
+                                 <time class="post-meta-element" datetime="2015-09-10">10 September, 2015</time>
+                              </li>
+                              <li>
+                                 <img width="150" height="150" src="images/event3.jpg" class="attachment-thumbnail wp-post-image" alt="01" /> <a href="#" title="Why you need Peace WordPress Theme?">Free Talks</a>
+                                 <br>
+                                 <i class="fa fa-calendar-o"></i>
+                                 <time class="post-meta-element" datetime="2015-09-10">10 September, 2015</time>
+                              </li>
+                           </ul>
+                        </div>
+                     </aside>-->
+
+                     <aside id="tag_cloud-4" class="widget widget_tag_cloud">
+                        <div class="col-md-4">
+                           <h2 class="widget-title">Contact Us</h2>
+                          <ul class="popular-post">
+                              <li>
+                                   
+                                
+                                 <i class="fa fa-phone"></i>
+                                 <time class="post-meta-element" datetime="2015-09-10">018-7828130</time>
+                              </li>
+                              <li>
+                                
+                                 <i class="fa fa-envelope"></i>
+                                 <time class="post-meta-element" datetime="2015-09-10">shankaranandamissions@gmail.com</time>
+                              </li>
+                              <li>
+                                 
+                                 <i class="fa fa-map-marker"></i>
+                                 <time class="post-meta-element" datetime="2015-09-10">Lot 2837, Jln Alor Bukit, Kulai, Malaysia</time>
+                              </li>
+                           </ul><!-- /.latest-post -->
+                        </div><!-- end col md 3 -->
+                     </aside>
+                  </div><!-- end container -->
+               </div><!-- end footer widget -->
+
+
+               <!-- footer start  -->
+               <footer id="footer">
+                  <div class="container">
+                     <div class="row">
+
+                        <div class="clearfix"></div>
+                           <div class="col-md-9">
+                        <div class="copyright ">
+                           <p class="text-left">Copyright © 2024 <a href="#">Shankarananda Mission</a></p>
+                        </div><!-- .copyright -->
+						</div>
+						  <div class="col-md-3">
+						  <div class="copyright  text-right">
+                           <p class="text-right copy-txt1">Designed by <a href="https://www.spiders.asia/" target="_blank">Spider Asia</a></p>
+                        </div>
+						  </div>
+                     </div><!-- /.row -->
+                  </div><!-- /.container -->
+               </footer>

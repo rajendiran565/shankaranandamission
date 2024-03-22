@@ -1,0 +1,12 @@
+[21-Jun-2022 17:27:13 UTC] PHP Deprecated:  Required parameter $type follows optional parameter $image in /home1/shankarananda/public_html/application/core/MY_Controller.php on line 150
+[21-Jun-2022 17:27:13 UTC] PHP Deprecated:  Required parameter $table follows optional parameter $field in /home1/shankarananda/public_html/application/models/Common_model.php on line 48
+[21-Jun-2022 17:27:13 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $field in /home1/shankarananda/public_html/application/models/Common_model.php on line 75
+[08-Aug-2023 19:46:01 UTC] PHP Deprecated:  Optional parameter $image declared before required parameter $type is implicitly treated as a required parameter in /home1/shankarananda/public_html/application/core/MY_Controller.php on line 150
+[08-Aug-2023 19:46:01 UTC] PHP Deprecated:  Optional parameter $field declared before required parameter $table is implicitly treated as a required parameter in /home1/shankarananda/public_html/application/models/Common_model.php on line 48
+[08-Aug-2023 19:46:01 UTC] PHP Deprecated:  Optional parameter $field declared before required parameter $where is implicitly treated as a required parameter in /home1/shankarananda/public_html/application/models/Common_model.php on line 75
+[08-Aug-2023 19:46:02 UTC] PHP Deprecated:  Optional parameter $image declared before required parameter $type is implicitly treated as a required parameter in /home1/shankarananda/public_html/application/core/MY_Controller.php on line 150
+[08-Aug-2023 19:46:02 UTC] PHP Deprecated:  Optional parameter $field declared before required parameter $table is implicitly treated as a required parameter in /home1/shankarananda/public_html/application/models/Common_model.php on line 48
+[08-Aug-2023 19:46:02 UTC] PHP Deprecated:  Optional parameter $field declared before required parameter $where is implicitly treated as a required parameter in /home1/shankarananda/public_html/application/models/Common_model.php on line 75
+[08-Aug-2023 19:46:03 UTC] PHP Deprecated:  Required parameter $type follows optional parameter $image in /home1/shankarananda/public_html/application/core/MY_Controller.php on line 150
+[08-Aug-2023 19:46:03 UTC] PHP Deprecated:  Required parameter $table follows optional parameter $field in /home1/shankarananda/public_html/application/models/Common_model.php on line 48
+[08-Aug-2023 19:46:03 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $field in /home1/shankarananda/public_html/application/models/Common_model.php on line 75

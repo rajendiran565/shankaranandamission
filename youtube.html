@@ -1,0 +1,78 @@
+
+<html>
+<head>
+<title>Recent Video from Haneef Youtube</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+    $.getJSON('https://api.rss2json.com/v1/api.json?rss_url=https://www.youtube.com/feeds/videos.xml?channel_id=UCBAO2SmTDLGPdibdJPYQ3wQ', function(jd) {
+      
+            $('<iframe width="400" height="315" frameborder="0" allowfullscreen></iframe>')
+            .attr("src", jd.items[0].link.replace("watch?v=", "embed/"))
+            .appendTo(".ptryoutube1");
+            
+             $('<iframe width="400" height="315" frameborder="0" allowfullscreen></iframe>')
+            .attr("src", jd.items[1].link.replace("watch?v=", "embed/"))
+            .appendTo(".ptryoutube2");
+            
+             $('<iframe width="400" height="315" frameborder="0" allowfullscreen></iframe>')
+            .attr("src", jd.items[2].link.replace("watch?v=", "embed/"))
+            .appendTo(".ptryoutube3");
+			
+			$('<iframe width="400" height="315" frameborder="0" allowfullscreen></iframe>')
+            .attr("src", jd.items[3].link.replace("watch?v=", "embed/"))
+            .appendTo(".ptryoutube4");
+        });
+    });
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+ 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+<div class="row" style="background-color:#eee;">
+<div class="column">
+<div class="ptryoutube1">
+
+</div>
+</div>
+<div class="column">
+<div class="ptryoutube2">
+</div>
+</div>
+<div class="column">
+<div class="ptryoutube3">
+</div>
+</div>
+<div class="column">
+<div class="ptryoutube4">
+</div>
+</div>
+</div>
+</body>
+</html>

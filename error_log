@@ -1,0 +1,69 @@
+[12-Feb-2024 14:43:33 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[12-Feb-2024 14:43:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'spekart_website_user'@'localhost' (using password: YES) in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 52
+[12-Feb-2024 14:43:33 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/spiderprojects/public_html/smf_website/includes/crud.php:83
+Stack trace:
+#0 /home/spiderprojects/public_html/smf_website/includes/crud.php(83): mysqli->query('SET NAMES utf8')
+#1 /home/spiderprojects/public_html/smf_website/login.php(13): Database->sql('SET NAMES utf8')
+#2 {main}
+  thrown in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 83
+[12-Feb-2024 14:44:12 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[12-Feb-2024 14:45:48 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 11:48:57 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 17:19:24 Asia/Kolkata] PHP Warning:  Undefined array key "email" in /home/spiderprojects/public_html/smf_website/donate.php on line 136
+[18-Feb-2024 11:59:35 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 12:03:31 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 12:17:34 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 17:47:34 Asia/Kolkata] PHP Warning:  Undefined array key "email" in /home/spiderprojects/public_html/smf_website/donate.php on line 136
+[18-Feb-2024 12:18:40 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 12:19:42 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 12:22:15 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 14:09:40 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[18-Feb-2024 19:40:38 Asia/Kolkata] PHP Warning:  Undefined array key "email" in /home/spiderprojects/public_html/smf_website/donate.php on line 136
+[18-Feb-2024 14:11:32 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[19-Feb-2024 04:31:35 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[19-Feb-2024 10:01:35 Asia/Kolkata] PHP Warning:  Undefined array key "email" in /home/spiderprojects/public_html/smf_website/donate.php on line 136
+[19-Feb-2024 04:33:32 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[19-Feb-2024 04:34:40 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[19-Feb-2024 04:44:38 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 11:38:48 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 11:38:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 52
+[20-Feb-2024 11:38:48 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/spiderprojects/public_html/smf_website/includes/crud.php:83
+Stack trace:
+#0 /home/spiderprojects/public_html/smf_website/includes/crud.php(83): mysqli->query('SET NAMES utf8')
+#1 /home/spiderprojects/public_html/smf_website/login.php(13): Database->sql('SET NAMES utf8')
+#2 {main}
+  thrown in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 83
+[20-Feb-2024 11:39:37 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 11:39:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 52
+[20-Feb-2024 11:39:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/spiderprojects/public_html/smf_website/includes/crud.php:83
+Stack trace:
+#0 /home/spiderprojects/public_html/smf_website/includes/crud.php(83): mysqli->query('SET NAMES utf8')
+#1 /home/spiderprojects/public_html/smf_website/login.php(13): Database->sql('SET NAMES utf8')
+#2 {main}
+  thrown in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 83
+[20-Feb-2024 11:40:35 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 11:40:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 52
+[20-Feb-2024 11:40:35 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/spiderprojects/public_html/smf_website/includes/crud.php:83
+Stack trace:
+#0 /home/spiderprojects/public_html/smf_website/includes/crud.php(83): mysqli->query('SET NAMES utf8')
+#1 /home/spiderprojects/public_html/smf_website/login.php(13): Database->sql('SET NAMES utf8')
+#2 {main}
+  thrown in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 83
+[20-Feb-2024 11:41:30 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 11:52:46 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 11:55:40 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 12:02:00 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 12:02:43 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[20-Feb-2024 12:09:09 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[21-Feb-2024 11:41:47 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[21-Feb-2024 11:46:20 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[21-Feb-2024 11:48:38 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[22-Feb-2024 05:35:00 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[22-Feb-2024 05:36:19 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[22-Feb-2024 11:18:01 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[28-Feb-2024 07:12:51 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[07-Mar-2024 05:38:47 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[07-Mar-2024 05:40:42 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[07-Mar-2024 05:42:54 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[07-Mar-2024 05:46:23 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
+[07-Mar-2024 15:28:45 UTC] PHP Deprecated:  Required parameter $where follows optional parameter $params in /home/spiderprojects/public_html/smf_website/includes/crud.php on line 218
